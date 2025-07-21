@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: nail-acf3b
+  project: nail_disease_own_dataset
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nail-acf3b/nail_disease_own_dataset/dataset/1
