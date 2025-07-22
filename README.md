@@ -1,4 +1,5 @@
 📌 Nail Disease Prediction - Deep Learning Based Detection Using YOLOv5
+
 🚀 A computer vision-powered AI model to detect nail diseases using YOLOv5.
 
 🧠 Project Description
@@ -7,6 +8,7 @@ Nail Disease Prediction is a deep learning-powered diagnostic aid that uses YOLO
 This project was created as a part of my academic and professional portfolio to demonstrate my capabilities in building end-to-end AI systems.
 
 💡 Features
+
 ✅ Real-time detection using YOLOv5
 
 ✅ Custom-labeled medical dataset
@@ -20,6 +22,7 @@ This project was created as a part of my academic and professional portfolio to 
 ✅ Modular codebase for extension
 
 🩺 Diseases Covered
+
 Fungal Infection
 
 Nail Psoriasis
@@ -31,6 +34,7 @@ Melanonychia
 Paronychia
 
 🗂 Project Structure
+
 Nail-Disease-Prediction/
 ├── detect.py
 ├── benchmarks.py
